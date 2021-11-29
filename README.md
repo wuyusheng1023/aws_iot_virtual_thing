@@ -1,0 +1,1 @@
+# aws_iot_virtual_thing
